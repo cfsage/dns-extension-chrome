@@ -2,7 +2,10 @@
 
 A simple, lightweight, and open-source browser extension that helps you switch to Cloudflare's 1.1.1.1 DNS service for a faster and more private internet experience.
 
-![Extension Popup Screenshot](https://i.imgur.com/your-image-url.png) ---
+
+![Extension Popup Screenshot](image.png) ---
+
+
 ## ## Features
 
 * **🚀 One-Click Setup:** Streamlines the process of enabling DNS-over-HTTPS in Chrome.
